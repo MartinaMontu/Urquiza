@@ -1,1 +1,1 @@
-print ("ClaseGit")
+print ("ClaseGit.pasando al repositorio local")
